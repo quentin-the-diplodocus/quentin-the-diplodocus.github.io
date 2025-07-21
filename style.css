@@ -129,7 +129,9 @@ h2 {
 
 /* others */
 
-
+a {
+  color:currentColor;
+}
 
 a:visited {
   color:currentColor;
